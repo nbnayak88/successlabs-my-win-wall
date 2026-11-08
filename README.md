@@ -7,6 +7,7 @@ Personal achievement journal for SuccessLabs Academy.
 ## Daily wins
 | Date | Milestones | Journal |
 |---|---:|---|
+| 2026-11-08 | 5 | [Read](daily-wins/2026/11/2026-11-08.md) |
 | 2026-11-07 | 5 | [Read](daily-wins/2026/11/2026-11-07.md) |
 | 2026-11-06 | 5 | [Read](daily-wins/2026/11/2026-11-06.md) |
 | 2026-11-05 | 5 | [Read](daily-wins/2026/11/2026-11-05.md) |

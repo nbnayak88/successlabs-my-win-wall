@@ -7,6 +7,7 @@ Personal achievement journal for SuccessLabs Academy.
 ## Daily wins
 | Date | Milestones | Journal |
 |---|---:|---|
+| 2026-11-18 | 4 published/validated milestones · 1 demo in progress | [Read](daily-wins/2026/11/2026-11-18.md) |
 | 2026-11-17 | 4 published source milestones · 1 topic exploration in progress | [Read](daily-wins/2026/11/2026-11-17.md) |
 | 2026-11-16 | 4 published/validated milestones · 1 release gate in progress | [Read](daily-wins/2026/11/2026-11-16.md) |
 | 2026-11-15 | 4 published/validated updates · 1 sync risk tracked | [Read](daily-wins/2026/11/2026-11-15.md) |
